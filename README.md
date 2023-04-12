@@ -1,9 +1,11 @@
 #Cryptocurrency Analysis
 
 ABOUT PROJECT
+
 A cryptocurrency is a digital or virtual currency secured by cryptography, which makes it extremely difficult to counterfeit or double-spend. Many cryptocurrencies use decentralized networks based on blockchain technology - a distributed ledger enforced by a network of computers. The objective of this project is to analyze various types of cryptocurrencies over different years, and an interactive dashboard for cryptocurrency analysis has been built using Power BI. The dashboard provides real-time data visualization and forecasting of cryptocurrency prices. The dashboard includes five pages: Home, Dashboard, Pricing, Overall, and Forecasting, and features easy navigation for quick access to each page..
 
 ABOUT THE DATASET
+
 The dataset used in this project includes historical price information of some of the top cryptocurrencies by market capitalization, and is sourced from various cryptocurrency APIs. The data is stored in CSV files, with one file for each currency, and price history is available on a daily basis from April 2013. The data is then transformed and loaded into both Jupyter Notebook and Power BI. The analysis includes various visualizations such as scatter plots, heat maps, and line charts, and uses descriptive statistics and correlation analysis to gain insights into the cryptocurrency market trends. The dashboard in Power BI uses DAX formulas, charts, tables, and other visualizations to display the data in an interactive manner.
 
 REQUIREMENTS:
@@ -35,6 +37,7 @@ DETAILS OF THE DATASET
 7. MARKET CAP	: The MARKET CAP is the market capitalization in USD.
 
 CRYPTOCURRIENCIES USED
+
 1 - AAVE COIN
 2 - BINANCE COIN
 3 - BITCOIN
@@ -61,22 +64,29 @@ CRYPTOCURRIENCIES USED
 24 - XRP COIN
 
 ABOUT DASHBOARD
+
 The dashboard includes several visualizations that allow users to explore the data and gain insights into cryptocurrency trends. The following visualizations are included:
 
-1 - A line chart showing the price history of a selected cryptocurrency over time.
-2 - A scatter chart comparing the market capitalization of different cryptocurrencies to their trading volume.
-3 - A bar chart showing the top 10 cryptocurrencies by market capitalization.
-4 - A donut chart showing the distribution of cryptocurrencies by market capitalization range.
-5 - The dashboard is fully interactive, allowing users to filter and drill down into the data. For example, users can select a specific cryptocurrency to         focus on, or filter by date range to see how prices and volumes have changed over time.
+ - A line chart showing the price history of a selected cryptocurrency over time.
+
+ - A scatter chart comparing the market capitalization of different cryptocurrencies to their trading volume.
+
+ - A bar chart showing the top 10 cryptocurrencies by market capitalization.
+
+ - A donut chart showing the distribution of cryptocurrencies by market capitalization range.
+
+ - The dashboard is fully interactive, allowing users to filter and drill down into the data. For example, users can select a specific cryptocurrency to         focus on, or filter by date range to see how prices and volumes have changed over time.
 
 ANALYSIS
-The analysis performed in this project includes:
-Retrieving and cleaning the data using Python and pandas.
-Exploring the data using various visualizations such as scatter plots, heat maps, and line charts.
-Analyzing the data using descriptive statistics and correlation analysis.
-Creating a dashboard in Power BI to display the findings.
 
-Credits
+- The analysis performed in this project includes:
+- Retrieving and cleaning the data using Python and pandas.
+- Exploring the data using various visualizations such as scatter plots, heat maps, and line charts.
+- Analyzing the data using descriptive statistics and correlation analysis.
+- Creating a dashboard in Power BI to display the findings.
+
+CREDITS
+
 This dashboard was developed by Shital Pidurkar, using data from various cryptocurrency APIs and the Power BI software.
 
 
