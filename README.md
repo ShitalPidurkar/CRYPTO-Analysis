@@ -1,4 +1,3 @@
-# CRYPTO-Report
 #Cryptocurrency Analysis
 ABOUT PROJECT
 A cryptocurrency is a digital or virtual currency secured by cryptography, which makes it extremely difficult to counterfeit or double-spend. Many cryptocurrencies use decentralized networks based on blockchain technology - a distributed ledger enforced by a network of computers. The objective of this project is to analyze various types of cryptocurrencies over different years, and an interactive dashboard for cryptocurrency analysis has been built using Power BI. The dashboard provides real-time data visualization and forecasting of cryptocurrency prices. The dashboard includes five pages: Home, Dashboard, Pricing, Overall, and Forecasting, and features easy navigation for quick access to each page..
